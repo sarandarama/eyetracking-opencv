@@ -1,1 +1,1 @@
-# eyetracking-opencv
+# Eye tracking with openCV and MediaPipe
